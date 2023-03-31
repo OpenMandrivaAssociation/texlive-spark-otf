@@ -1,6 +1,6 @@
 Name:		texlive-spark-otf
 Version:	62481
-Release:	1
+Release:	2
 Summary:	Support OpenType Spark fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spark-otf
